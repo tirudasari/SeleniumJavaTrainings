@@ -1,6 +1,7 @@
 Feature: Login functionality validation
 
   // pre-requisite for all the test cases
+#   This is the latest code to push to the main branch for demo purpose
   @Background: Given User opens the Browser and enter the url
 
   @SmokeTest
