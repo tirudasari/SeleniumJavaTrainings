@@ -29,6 +29,7 @@ Feature: Login functionality validation
     Then Close the browser
 
 
+#    This Smoke suite is for automatic build verification during the regression or patch work in the QA/Staging environments
   @SmokeTest
   Scenario: Validate1 the user is able to login with valid credentials into the application
 #    Given User opens the Browser and enter the url
