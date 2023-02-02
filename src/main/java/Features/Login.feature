@@ -19,6 +19,7 @@ Feature: Login functionality validation
     Then Verfy that user is nvigated to Dashboard page
     Then Close the browser
 
+#  This is for second Pull request
   @Smoke
   Scenario: Validate1 the user is able to login with valid credentials into the application
 #    Given User opens the Browser and enter the url
