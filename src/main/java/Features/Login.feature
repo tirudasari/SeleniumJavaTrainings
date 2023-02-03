@@ -11,6 +11,7 @@ Feature: Login functionality validation
     Then user clicks on Login button
 
     @SmokeTest
+      # This is the test for browser login.
   Scenario: Validate1 the user is able to login with valid credentials into the application
     Given User opens the Browser and enter the url
     Then Verify that Login page is displayed
