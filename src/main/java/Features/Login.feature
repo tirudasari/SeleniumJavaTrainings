@@ -6,7 +6,7 @@ Feature: Login functionality validation
   @SmokeTest
   Scenario: Validate the user is able to login with valid credentials into the application
 #    Given User opens the Browser and enter the url
-    # sasi changes
+    # sasi made changes
     And User enters the userid and password
     Then user clicks on Login button
 
